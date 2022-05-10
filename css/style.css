@@ -1,1 +1,24 @@
-div{}
+.lewa{height: 70%;
+    width: 33%;
+    border: 1px solid black;
+    display: inline-block;
+    }
+.srodek{height: 70%;
+    width: 33%;
+    border: 1px solid black;
+    display: inline-block;
+     }
+.prawa{height: 70%;
+    width: 33%;
+    border: 1px solid black;
+    display: inline-block;
+}
+.footer{height: 15%;
+    width: 100%;
+    border: 1px solid black;
+    }
+.header{height: 15%;
+    width: 100%;
+    border: 1px solid black;
+    }
+
