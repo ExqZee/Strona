@@ -3,12 +3,11 @@
     border: 1px solid black;
     float:left;
     padding: 10px;
-    display: inline-block;
     }
 .footer,.header{height: 15%;
     width: 100%;
     border: 1px solid black;
-    display:inline-block;
+    display: inline-block;
     }
     
 *{
