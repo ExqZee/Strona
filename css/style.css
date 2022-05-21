@@ -1,13 +1,19 @@
-.lewa,.srodek,.prawa{height: 70%;
-    width: 33.3%;
+.lewa,.prawa{height: 1000px;
+    width: 15%;
     border: 1px solid black;
     float:left;
     padding: 10px;
     }
-.footer,.header{height: 15%;
+.footer,.header{height: 150px;
     width: 100%;
     border: 1px solid black;
     display: inline-block;
+    }
+.srodek{height: 1000px;
+    width: 70%;
+    border: 1px solid black;
+    float:left;
+    padding: 10px;
     }
     
 *{
