@@ -28,11 +28,15 @@ width: 25%;
 text-align: center;
 border: 1px solid black;
 font-size: 2vw;
-
+background-image: linear-gradient(to right, yellow, red, yellow);
 }
-.menu:hover{background-color: aqua;}
+.menu:hover{background-image: linear-gradient(to right, aqua, blue ,aqua);}
 .main{display: flex;}
 *{
     box-sizing:border-box;
     word-break: break-all;
 }
+body{
+    background-image: linear-gradient(to right, lightgreen, green);
+}
+
