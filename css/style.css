@@ -1,4 +1,4 @@
-.lewa,.prawa{height: 200%;
+.lewa,.prawa{
     width: 15%;
     border: 1px solid black;
     float:left;
@@ -9,7 +9,7 @@
     border: 1px solid black;
     display: inline-block;
     }
-.srodek{height: 200%;
+.srodek{
     width: 70%;
     border: 1px solid black;
     float:left;
@@ -31,12 +31,8 @@ font-size: 2vw;
 
 }
 .menu:hover{background-color: aqua;}
-    
+.main{display: flex;}
 *{
     box-sizing:border-box;
     word-break: break-all;
 }
-
-
-
-
