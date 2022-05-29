@@ -24,11 +24,11 @@ font-size: 3vw;
 
 .menu{
 width: 25%;
- float:left;
+float:left;
 text-align: center;
 border: 1px solid black;
 font-size: 2.5vw;
-background-image: linear-gradient(to right, yellow, red, yellow);
+background-image: linear-gradient(to right, rgb(255,153,95),rgb(224,215,56),rgb(255,153,95));
 }
 #author{
     font-size: 20px;
@@ -41,7 +41,7 @@ background-image: linear-gradient(to right, yellow, red, yellow);
     word-break:keep-all;
 }
 body{
-    background-image: linear-gradient(to right, lightgreen, green);
+    background-image: linear-gradient(to right, rgb(1,1,1), rgb(222,207,42), rgb(1,1,1));
 }
 @keyframes przesun
 {
